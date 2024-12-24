@@ -20,7 +20,7 @@ public class PrivateElevator2 {
 			
 		} else {
 			System.out.println("The elevator has exceeded capacity");
-			System.out.println("Doors will remain opend until someone exits")
+			System.out.println("Doors will remain opend until someone exits");
 		}
 	}
 
