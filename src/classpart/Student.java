@@ -11,9 +11,9 @@ public class Student {
 		return studentName;
 	}
 
-//	public void setStudentName(String name) {
-//		studentName = name;
-//	}
+	public void setStudentName(String name) {
+		studentName = name;
+	}
 	
 	public static void main(String[] args) {
 		Student studentAhn = new Student();
